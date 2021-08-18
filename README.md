@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @shaheershk
+- 👀 I’m interested in learning to code in Java.
+- 🌱 I’m currently learning computer science.
+- 📫 You can reach me at shaheerkhan7860@gmail.com and check out my Hackerrank profile here -> https://www.hackerrank.com/shaheerkhan7860
